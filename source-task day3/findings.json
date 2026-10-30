@@ -1,0 +1,52 @@
+[
+  {
+    "time": "14:47:11",
+    "summary": "API Key | File: testproject\\config.py | Line: 3 | Value: FAKE******************ABCD",
+    "severity": "High"
+  },
+  {
+    "time": "14:47:11",
+    "summary": "Password | File: testproject\\config.py | Line: 4 | Value: Fake******************only",
+    "severity": "High"
+  },
+  {
+    "time": "14:56:46",
+    "summary": "API Key | File: testproject\\config.py | Line: 3 | Value: FAKE******************ABCD",
+    "severity": "High"
+  },
+  {
+    "time": "14:56:46",
+    "summary": "Password | File: testproject\\config.py | Line: 4 | Value: Fake******************only",
+    "severity": "High"
+  },
+  {
+    "time": "19:35:57",
+    "summary": "API Key | File: testproject\\config.py | Line: 3 | Value: FAKE******************ABCD",
+    "severity": "High"
+  },
+  {
+    "time": "19:35:57",
+    "summary": "Password | File: testproject\\config.py | Line: 4 | Value: Fake******************only",
+    "severity": "High"
+  },
+  {
+    "time": "19:36:53",
+    "summary": "API Key | File: testproject\\config.py | Line: 3 | Value: FAKE******************ABCD",
+    "severity": "High"
+  },
+  {
+    "time": "19:36:53",
+    "summary": "Password | File: testproject\\config.py | Line: 4 | Value: Fake******************only",
+    "severity": "High"
+  },
+  {
+    "time": "09:24:08",
+    "summary": "API Key | File: testproject\\config.py | Line: 3 | Value: FAKE******************ABCD",
+    "severity": "High"
+  },
+  {
+    "time": "09:24:08",
+    "summary": "Password | File: testproject\\config.py | Line: 4 | Value: Fake******************only",
+    "severity": "High"
+  }
+]

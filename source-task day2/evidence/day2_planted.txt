@@ -1,0 +1,16 @@
+DAY 2 - STEP 1 PROOF
+====================
+
+Test project created successfully.
+
+File:
+testproject/config.py
+
+Fake secrets planted:
+1. API_KEY
+2. PASSWORD
+
+Normal non-secret value:
+DB_HOST = "localhost"
+
+All values are fake and intended only for scanner testing.

@@ -1,0 +1,17 @@
+DAY 3 - STEP 3 PROOF
+====================
+
+Negative control file:
+clean_file.py
+
+Command:
+python scanner.py clean_file.py
+
+Expected result:
+
+Entropy threshold: 4.0
+
+Found 0 finding(s)
+Result:
+The clean Python file produced zero findings.
+No API key, password, token, or high-entropy secret was detected.

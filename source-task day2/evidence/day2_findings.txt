@@ -1,0 +1,15 @@
+DAY 2 - STEP 3 PROOF
+====================
+
+Command:
+python scanner.py testproject
+
+Findings:
+
+[HIGH] API Key | File: testproject/config.py | Line: 3 | Value: FAKE****************ABCD
+
+[HIGH] Password | File: testproject/config.py | Line: 4 | Value: Fake************_only
+
+Both planted secrets were detected.
+
+DB_HOST = "localhost" was not reported by the regex rules.

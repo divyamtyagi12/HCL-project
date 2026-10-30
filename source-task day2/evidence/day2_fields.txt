@@ -1,0 +1,26 @@
+DAY 2 - STEP 4 PROOF
+====================
+
+Command:
+python scanner.py testproject
+
+Each finding contains the required four fields:
+
+1. File
+2. Line number
+3. Masked value
+4. Severity
+
+API Key:
+Severity: HIGH
+File: testproject/config.py
+Line: 3
+Masked Value: FAKE****************ABCD
+
+Password:
+Severity: HIGH
+File: testproject/config.py
+Line: 4
+Masked Value: Fake************_only
+
+The original secret values are not printed by the scanner.

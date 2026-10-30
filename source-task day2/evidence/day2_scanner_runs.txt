@@ -1,0 +1,10 @@
+DAY 2 - STEP 2 PROOF
+====================
+
+Command:
+python scanner.py testproject
+
+Result:
+Scanner executed successfully against the testproject directory.
+
+The scanner completed without errors.
